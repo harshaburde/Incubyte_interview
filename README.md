@@ -1,0 +1,1 @@
+This script is for database sharding. Script to get data from file and divide data based on country.
